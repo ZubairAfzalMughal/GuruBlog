@@ -6,10 +6,10 @@ This website has following features
 # 1) Upload Post
 # 2) Delete Post
 
-#Front End of Website
+# Front End of Website
 
 html,css,bootstrap,js
 
-#Backend of Wesbite
+# Backend of Wesbite
 
 php
